@@ -8,7 +8,7 @@ After messing around with Ionic Framework, I found out that there wasn't a good 
 
 ## 1. Create an Ionic App
 
-'''
+```
 ionic start fblogin blank
-'''
+```
 
