@@ -168,9 +168,10 @@ ionic cordova run android
 ```
 
 # Output
+<p align="center">
+  <kbd><img src="https://imgur.com/QsRabxx.png" width="281" height="500"/></kbd>
+</p>
 
-<img align="center" src="https://imgur.com/QsRabxx.png" width="281" height="500"/>
-<br>
 <img align="center" src="https://i.imgur.com/i2DDhmJ.png" width="281" height="500"/>
 
 
