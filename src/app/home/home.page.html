@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Test Facebook Login
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div *ngIf="isUserLoggedIn" style="text-align:center">
+    <br>
+    <br>
+    <br>
+    <img src="{{userInfo.picture.data.url}}">
+    <h3>{{userInfo.name}}</h3>
+    <p>{{userInfo.email}}</p>
+    <p>{{userInfo.birthday}}</p>
+    <ion-button fill="outline" (click)="FBLogout()">Logout</ion-button>
+  </div>
+</ion-content>
+
+<ion-footer *ngIf="!isUserLoggedIn">
+  <ion-button expand="block" (click)="FBLogin()">Login with Facebook</ion-button>
+</ion-footer>
