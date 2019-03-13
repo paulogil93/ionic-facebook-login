@@ -1,4 +1,4 @@
-![](https://cdn-images-1.medium.com/max/800/1*_YS8s1rCbGqeexIHl6LzHg.jpeg)
+![](https://cdn-images-1.medium.com/focal/1600/480/79/47/1*_YS8s1rCbGqeexIHl6LzHg.jpeg)
 
 # Overview
 
