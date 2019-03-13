@@ -169,5 +169,5 @@ ionic cordova run android
 
 # Output
 
-![](https://imgur.com/QsRabxx.png)
+<img src="https://imgur.com/QsRabxx.png" width="150" height="100" />
 
