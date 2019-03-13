@@ -171,7 +171,7 @@ ionic cordova run android
 
 <p align="center">
   <kbd><img src="https://imgur.com/QsRabxx.png" width="281" height="500"/></kbd>
-  <br>
+  &nbsp;&nbsp;
   <kbd><img align="center" src="https://i.imgur.com/i2DDhmJ.png" width="281" height="500"/></kbd>
 </p>
 
