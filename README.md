@@ -169,5 +169,5 @@ ionic cordova run android
 
 # Output
 
-<img src="https://imgur.com/QsRabxx.png" width="150" height="100" />
+<img src="https://imgur.com/QsRabxx.png" width="150" height="400" />
 
