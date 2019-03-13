@@ -1,7 +1,0 @@
-{
-  "name": "fblogin",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
